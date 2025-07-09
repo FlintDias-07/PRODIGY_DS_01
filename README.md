@@ -64,6 +64,20 @@ Progress by Flint Dias – Data Science Intern at Prodigy InfoTech.
 
 
 
+✅ Today's Progress - 09-07-2025
+
+Loaded global population dataset from CSV (World Bank data).
+
+Cleaned and transformed data:
+
+Removed top rows and unnecessary columns.
+
+Unpivoted year columns to create tidy structure (Country, Year, Population).
+
+Fixed data types and renamed columns.
+
+Done with first track 
+
 
 
 
